@@ -1,0 +1,7 @@
+{
+  "MicrosoftTelemetryConnectionString": "",
+  "$schema": "https://raw.githubusercontent.com/businesscentralapps/tmpDQopDM-Actions/main/settings.schema.json",
+  "type": "PTE",
+  "useProjectDependencies": true,
+  "templateUrl": "https://github.com/businesscentralapps/tmpDQopDM-PTE@main"
+}
